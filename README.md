@@ -1,4 +1,4 @@
-# LGBTQI-corpus
+# LGBTQI-corpora
 
 This repository contains two different datasets in Italian for Describing and Analyzing Hate Speech against LGBTQI+ people:
 
